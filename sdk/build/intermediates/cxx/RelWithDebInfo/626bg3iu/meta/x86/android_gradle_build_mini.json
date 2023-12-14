@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\L13\\AndroidStudioProjects\\Projet_android\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\L13\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\L13\\AndroidStudioProjects\\Projet_android\\sdk\\.cxx\\RelWithDebInfo\\626bg3iu\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\L13\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\L13\\AndroidStudioProjects\\Projet_android\\sdk\\.cxx\\RelWithDebInfo\\626bg3iu\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "C:\\Users\\L13\\AndroidStudioProjects\\Projet_android\\sdk\\.cxx\\RelWithDebInfo\\626bg3iu\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
