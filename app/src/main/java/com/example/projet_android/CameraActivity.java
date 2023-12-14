@@ -164,8 +164,6 @@ public class CameraActivity extends Activity implements CameraBridgeViewBase.CvC
             storageDir.mkdir();
         }
 
-
-
         // Save the image with a timestamp in the filename
         String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss", Locale.getDefault()).format(new Date());
         String filename = "IMG_" + timestamp + ".jpg";
